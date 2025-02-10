@@ -1,6 +1,6 @@
-**Staylytics**
+***Staylytics***
 
-**Hotel Performance Dashboard - Power BI**
+**Hotel Performance Dashboard**
 This Power BI Dashboard provides an analytical overview of hotel performance metrics across multiple cities and booking platforms. The dashboard helps hotel management and stakeholders make data-driven decisions to optimize revenue, occupancy, and operational efficiency.
 
 Key Insights:
